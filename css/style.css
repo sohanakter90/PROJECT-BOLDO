@@ -1,0 +1,25 @@
+/* Header style */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
+
+header {
+    background-image: url(image/hero/hero-bg.png);
+}
+
+.navbar .nav-item a {
+    color: white;
+}
+
+h1 {
+    font-weight: 600;
+
+    font-size: 3em;
+
+}
+
+.slider-track img {}
+
+.slider-track {
+    margin-bottom: 5em;
+    padding-top: 1em;
+    padding-bottom: 2em;
+}
